@@ -1,0 +1,74 @@
+.navbar-header-top{
+    background: #f5f7fb;
+    position:relative;
+    padding-left:100px;
+
+}
+
+.navbar-brand{
+    position:relative;
+    margin-right:0px;
+}
+
+
+.navbar-collapse{
+    margin:0px;
+    padding:0px;
+    padding-right:410px;
+}
+
+.latest-work{
+    background: #f2f5f7;
+    width: 100%;
+    padding-top:80px;
+}
+
+.latest-work-pics{
+    background: #f2f5f7;
+    width:100%;
+    padding-left:50px;
+    padding-bottom: 50px;
+    padding-top: 40px;
+
+}
+
+.small-slides{
+    background: #f2f5f7;
+    width: 100%;
+    padding-top:50px;
+    padding-bottom:110px;
+}
+
+.carousel-caption{
+    margin-top:200px;
+    padding-bottom:250px;
+}
+
+.contact-button{
+    padding-left: 520px;
+    margin-bottom: 60px;
+
+}
+
+.main-footer{
+    background:#2f4052;
+    width:100%;
+    color: #ffffff;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+}
+
+.footer-ending{
+    background:#283645;
+    color:#eeeeee;
+    width: 100%;
+}
+
+.beautiful-intro{
+    padding-bottom:50px;
+}
+
+.description-set{
+    padding-bottom:60px;
+}
